@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
+Skills: / HTML / CSS
 
 [GitHub stats](https://github-readme-stats.vercel.app/api?username=Saddam6260&show_icons=true)  
 
