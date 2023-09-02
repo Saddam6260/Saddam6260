@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Skills: / HTML / CSS / SCSS
+Skills: / HTML / CSS / SCSS / TAILWIND CSS
 
 [GitHub stats](https://github-readme-stats.vercel.app/api?username=Saddam6260&show_icons=true)
 <br/>
