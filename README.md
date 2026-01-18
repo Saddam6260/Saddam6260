@@ -5,10 +5,8 @@
 
 ## 📊 Most Used Language
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saddam6260&layout=compact&theme=tokyonight"
-    alt="Top Languages"/>
+<p align="start">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saddam6260&layout=compact&theme=tokyonight" />
 </p>
 <br/>
 
